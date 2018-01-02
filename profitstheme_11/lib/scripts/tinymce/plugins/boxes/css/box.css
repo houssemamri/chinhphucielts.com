@@ -1,0 +1,106 @@
+#frmbody {
+	padding: 10px;
+	background-color: #FFF;
+	border: 1px solid #CCC;
+}
+
+.jbox {
+	float:left;
+	margin:5px 10px 10px 10px;
+}
+
+.clear{
+	clear:left;
+}
+
+.title {
+	padding-bottom: 5px;
+}
+
+.box-sizing {display: inline-block;width:118px;height:70px;margin:0;cursor:pointer;}
+.box-heading {height: 10px;margin: 0;}
+
+
+
+/* Johnson Box */
+.greybox8{ background:#FFF; border:1px solid #ddd;-webkit-border-radius:3px;border-radius:3px;position:relative; }
+.bluebox8{ background:#FFF; border:1px solid #a9d9fa;-webkit-border-radius:3px;border-radius:3px;position:relative; }
+.greenbox8{ background:#FFF; border:1px solid #6dd458;-webkit-border-radius:3px;border-radius:3px;position:relative; }
+.orangebox8{  background:#FFF; border:1px solid #ffd66a;-webkit-border-radius:3px;border-radius:3px;position:relative; }
+.redbox8{ background:#FFF; border:1px solid #ff8c8c;-webkit-border-radius:3px;border-radius:3px;position:relative; }
+
+.greybox8 .element-box,
+.bluebox8 .element-box,
+.greenbox8 .element-box,
+.orangebox8 .element-box,
+.redbox8 .element-box {
+    background:url(../img/left-box-shadow.png) no-repeat left center,
+               url(../img/right-box-shadow.png) no-repeat right center;
+    height:8px;
+    width:100%;
+    position:absolute;
+    bottom:-9px;
+    left:0;
+}
+
+.greybox9{  background:#EFEFEF; border:1px solid #ccc;-webkit-box-shadow: inset 0px 0px 1px 1px #ffffff;box-shadow: inset 0px 0px 1px 1px #ffffff; }
+.bluebox9{  background:#dfeefa; border:1px solid #a9d9fa;-webkit-box-shadow: inset 0px 0px 1px 1px #ffffff;box-shadow: inset 0px 0px 1px 1px #ffffff; }
+.greenbox9{  background:#e8efd8; border:1px solid #518413;-webkit-box-shadow: inset 0px 0px 1px 1px #ffffff;box-shadow: inset 0px 0px 1px 1px #ffffff; }
+.yellowbox9{  background:#FFB900; border:1px solid #ffde00;-webkit-box-shadow: inset 0px 0px 1px 1px #ffffff;box-shadow: inset 0px 0px 1px 1px #ffffff; }
+.redbox9{  background:#eaccc7; border:1px solid #cc0000;-webkit-box-shadow: inset 0px 0px 1px 1px #ffffff;box-shadow: inset 0px 0px 1px 1px #ffffff; }
+
+.greybox10{  background:#FFF; border:1px solid #ccc;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow: inset 0px 0px 2px 2px #f1f1f1;box-shadow: inset 0px 0px 2px 2px #f1f1f1; }
+.bluebox10{  background:#FFF; border:1px solid #5ebbfa;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow: inset 0px 0px 2px 2px #cee8fa;box-shadow: inset 0px 0px 2px 2px #cee8fa; }
+.greenbox10{  background:#FFF; border:1px solid #82d166;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow: inset 0px 0px 2px 2px #d5f7c3;box-shadow: inset 0px 0px 2px 2px #d5f7c3; }
+.orangebox10{  background:#FFF; border:1px solid #FFB900;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow: inset 0px 0px 2px 2px #ffe193;box-shadow: inset 0px 0px 2px 2px #ffe193; }
+.redbox10{  background:#FFF; border:1px solid #EA3F24;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow: inset 0px 0px 2px 2px #ffb9ae;box-shadow: inset 0px 0px 2px 2px #ffb9ae; }
+
+.greybox11{  background:#EFEFEF; border:1px solid #ccc;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow: inset 0px 0px 2px 2px rgba(0, 0, 0, 0.15);box-shadow: inset 0px 0px 2px 2px rgba(0, 0, 0, 0.15); }
+.bluebox11{  background:#dfeefa; border:1px solid #a9d9fa;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow: inset 0px 0px 2px 2px rgba(0, 0, 0, 0.15);box-shadow: inset 0px 0px 2px 2px rgba(0, 0, 0, 0.15); }
+.greenbox11{  background:#e8efd8; border:1px solid #82d166;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow: inset 0px 0px 2px 2px rgba(0, 0, 0, 0.15);box-shadow: inset 0px 0px 2px 2px rgba(0, 0, 0, 0.15); }
+.yellowbox11{  background:#FFB900; border:1px solid #ffcc00;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow: inset 0px 0px 2px 2px rgba(0, 0, 0, 0.15);box-shadow: inset 0px 0px 2px 2px rgba(0, 0, 0, 0.15); }
+.redbox11{  background:#eaccc7; border:1px solid #EA3F24;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow: inset 0px 0px 2px 2px rgba(0, 0, 0, 0.15);box-shadow: inset 0px 0px 2px 2px rgba(0, 0, 0, 0.15); }
+
+.greybox12{  background:#FFF; border-top:1px solid #ccc;border-left:1px solid #fff;border-right:1px solid #fff;border-bottom:1px solid #fff;}
+.bluebox12{  background:#FFF; border-top:1px solid #a9d9fa;border-left:1px solid #fff;border-right:1px solid #fff;border-bottom:1px solid #fff; }
+.greenbox12{  background:#FFF; border-top:1px solid #518413;border-left:1px solid #fff;border-right:1px solid #fff;border-bottom:1px solid #fff;}
+.orangebox12{  background:#FFF; border-top:1px solid #FFB900;border-left:1px solid #fff;border-right:1px solid #fff;border-bottom:1px solid #fff; }
+.redbox12{background:#FFF; border-top:1px solid #cc0000;border-left:1px solid #fff;border-right:1px solid #fff;border-bottom:1px solid #fff; }
+
+.greybox13{  background:#f1f1f1;color:#666;border:1px solid #f1f1f1;  }
+.bluebox13{  background:#01BCF3;color:#fff;border:1px solid #01BCF3;  }
+.greenbox13{  background:#008A00;color:#fff;border:1px solid #008A00;  }
+.yellowbox13{  background:#FFB900;color:#fff;border:1px solid #FFB900; }
+.redbox13{ background:#EA3F24;color:#fff;border:1px solid #EA3F24; }
+
+.greybox14{  background:#FFF; border:1px solid #ccc;-webkit-border-radius:3px;border-radius:3px; }
+.greybox14 .greybox14-head{
+background-color: #f1f1f1;
+color:#808080; 
+}
+.bluebox14{  background:#FFF; border:1px solid #5ebbfa;-webkit-border-radius:3px;border-radius:3px; }
+.bluebox14 .bluebox14-head{
+background-color: #01BCF3;
+color:#fff;
+}
+.greenbox14{  background:#FFF; border:1px solid #518413;-webkit-border-radius:3px;border-radius:3px; }
+.greenbox14 .greenbox14-head{
+background-color: #008A00;
+color:#fff;
+}
+.orangebox14{  background:#FFF; border:1px solid #FFB900;-webkit-border-radius:3px;border-radius:3px; }
+.orangebox14 .orangebox14-head{
+background-color: #FFB900;
+color:#333; 
+}
+.redbox14{  background:#FFF; border:1px solid #EA3F24;-webkit-border-radius:3px;border-radius:3px; }
+.redbox14 .redbox14-head{
+background-color: #EA3F24;
+color:#fff;
+}
+
+.greybox15{ background:url(../img/box-shadow-grey.png) no-repeat center top;border:1px solid #fff; }
+.bluebox15{  background:url(../img/box-shadow-blue.png) no-repeat center top;border:1px solid #fff;  }
+.greenbox15{ background:url(../img/box-shadow-green.png) no-repeat center top; border:1px solid #fff;  }
+.orangebox15{background:url(../img/box-shadow-orange.png) no-repeat center top;border:1px solid #fff;   }
+.redbox15{ background:url(../img/box-shadow-red.png) no-repeat center top;border:1px solid #fff;  }

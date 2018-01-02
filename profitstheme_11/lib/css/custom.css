@@ -1,0 +1,130 @@
+body{  }
+
+		/* Formatting */
+		h1, h2, h3, h4, h5 { padding: 10px 0; }
+		a{ text-decoration: underline; }a:hover{ text-decoration: none; }
+		blockquote p { padding: 5px 0; }
+
+		/* thumbnail */
+		.thumb-left{ float:left;margin:0 15px 10px 0;clear:left; }
+		.thumb-right{ float:right;margin:0 0 10px 15px;clear:right;}
+
+		/* Container */
+		#wrapper{ width:1030px; }
+		#before-header-bg{}
+		#before-header{ margin:0 auto;width:1030px; }
+		#header-bg{ height:165px; }
+#header{ position:relative;margin:0 auto;width:1030px;height:165px; }
+		#after-header-bg{}
+		#after-header{ margin:0 auto; width:1030px; }
+		#mediabox{ margin-bottom:20px;width:px; }
+		#mainarea{}
+		#bottom-widget{ margin:0 auto;width:1030px;}
+
+		/* Columns */
+		#main-column{ margin:0 0px 0 0;width:700px;padding:0;}
+		#sidebar1-column{ width:290px;margin:0 0px 0 0px;padding:0; overflow:hidden; }
+		#sidebar2-column{ width:0px;margin:0 0px 0 0px;padding:0; overflow:hidden; }
+		#bottom-left{ width:303px; }
+		#bottom-center{ width:303px; }
+		#bottom-right{ width:303px; }
+		#bottom-right2{ width:303px; }
+
+		/* Header */
+		#header-image{height:165px; display:block; }
+#header #logo{ padding-top:41px; z-index: 50; }
+#header-member-image{height:100px; display:block; }
+#header #logo h1 a, #header #logo h1 a:hover { text-decoration:none; }
+#header #logo .description { text-decoration:none; }
+
+		/* Header RSS */
+		#header .header_rss{ position:absolute;top:71px;left:902px;width:128px;height:94px;overflow:hidden; }
+		
+		/* Header Search */
+		#header .header_search{ position:absolute;top:65px;left:849px;height:35px;width:181px; }
+		
+		/* Header Ads */
+		#header .header_ads{ position:absolute;top:52.5px;left:562px;height:60px;width:468px; }
+
+		/* Header Optin */
+		#header .header_optin{ position:absolute;top:0;left:755px;height:155px;width:255px;padding:5px 10px; }
+		#header .header_optin{color:#FFFFFF;font-family:Verdana, sans-serif !important;font-size:9px !important;font-style:normal;font-weight:bold; }
+#header .header_optin .header_optin_text{color:#CC0000;font-family:Georgia, "Times New Roman", Times, serif !important;font-size:15px !important;font-style:normal;font-weight:normal; }
+/* Before Header Navigation */ 
+#nav1 a{  }
+#nav1 a:hover{  }
+/* After Header Navigation */
+#nav2 a{  }
+#nav2 a:hover{  }
+
+		/* Gallery */
+		#gallery{ position:relative;width:700px;height:385px;margin-bottom:15px; }
+		#gallery a { float:left;position:absolute; }
+		#gallery a img { border:none; }
+		#gallery a.show { z-index:500; }
+		#gallery .caption { z-index:600;background:#000;color:#ffffff;height:90px;width:700px;position:absolute;bottom:0; }
+		#gallery .caption .content { margin:5px; }
+		#gallery .caption .content h3 { margin:0;padding:0 20px;color:#FFF; }
+		#gallery .caption .content h3 a { text-decoration:none;color:#FFF; }
+		#gallery .caption .content h3 a:hover { text-decoration:underline;color:#FFF; }
+		#gallery .caption .content p { margin:0;padding:0 20px;color:#FFF; }
+
+		/* Slideshow */
+		#slideshow { margin:0 auto;width:640px;height:263px;position:relative; }
+		#slideshow #slidesContainer { margin:0 auto;width:560px;height:263px;overflow:auto;position:relative; }
+		#slideshow #slidesContainer .slide { margin:0 auto;width:520px;height:263px; }
+		.control{ display:block;width:39px;height:263px;text-indent:-10000px;position:absolute;cursor: pointer; }
+		#leftControl{ top:0;left:0; }
+		#rightControl{ top:0;right:0; }
+		.slide h3, .slide p { margin:10px; }
+		.slide img { float:right;margin:0 0 0 10px; }
+		#slideIndex{ left: 60px;bottom: 10px;position: absolute;}
+		.slide h3{  }
+.slide h3 a{  }
+.slide h3 a:hover{  }
+.slide p { line-height:24px; }
+
+		/* Loop Slider */
+		.loopfeatured{}
+		.container{ width:700px;height:px;overflow:hidden;position:relative;cursor:pointer; }
+		.slides{ position:absolute;top:0;left:0;list-style:none;padding:0;margin:0; }
+		.slides li{ position:absolute;top:40px;width:700px;display:none;padding:0;margin:0; }
+		#loopedSlider,#newsSlider{ margin:0 auto;width:700px;position:relative;clear:both; }
+		.slides li{ padding-bottom:20px; }
+
+		/* Carousel */
+		.jcarousel-skin-pt .jcarousel-container { border: none; }
+		.jcarousel-skin-pt .jcarousel-direction-rtl { direction: rtl; }
+		.jcarousel-skin-pt .jcarousel-container-horizontal { width:700px; padding: 0; }
+		.jcarousel-skin-pt .jcarousel-container-vertical { width:700px; height: 300px; padding: 0; }
+		.jcarousel-skin-pt .jcarousel-clip-horizontal { width:700px;height:300px; }
+		.jcarousel-skin-pt .jcarousel-clip-vertical { width:700px; height: 300px; }
+		.jcarousel-skin-pt .jcarousel-item { width:700px;height: 300px; }
+
+		/* Post */
+		.post {padding:20px;}
+		.postwidth1{}
+		.postwidth2{ width:280px;float:left;overflow:hidden;}
+		.postwidth3{ width:280px;float:left;margin-right:0px; overflow:hidden;}
+		.entry{  }.entry h1.postitle{  }.entry h1.postitle a{ text-decoration:none }.entry h1.postitle a:hover{ text-decoration:underline }.entry h2.postitle{  }.entry h2.postitle a{ text-decoration:none }.entry h2.postitle a:hover{ text-decoration:underline }.entry .post-bylines {  }.postags {  }.postmetadata{  }
+		/* Sidebar */
+		#sidebar{}
+		#sidebar ul { margin:0;padding:0;}
+		#sidebar ul li { }#sidebar ul li h2 {  }#sidebar ul li ul li a { text-decoration:none }#sidebar ul li ul li a:hover { text-decoration:underline }#membership-column { }
+		/* Bottom Widget */
+		#bot-widget{}
+		#bot-widget ul {}
+		#bot-widget ul li {  }#bot-widget ul li h2 {  }#bot-widget ul li ul li a { text-decoration:none }#bot-widget ul li ul li a:hover { text-decoration:underline }
+		#bot-widget ul li ul li ul{ list-style:circle; margin:5px 15px 0 15px;padding:0; }
+		#bot-widget ul li ul li ul li{ margin:0;padding:2px 0; }
+		
+		/* Footer */
+		#footer{ margin:0 auto; width:1030px; }#footer a{ text-decoration:underline }#footer a:hover{ text-decoration:none }#popupOptin{color:#212121;font-family:Verdana, sans-serif !important;font-size:11px !important;font-style:normal;font-weight:normal; }
+#popupOptin h1{color:#CC0000;font-family:Georgia, "Times New Roman", Times, serif !important;font-size:30px !important;font-style:normal;font-weight:bold; }
+
+		#squeezewrap ul{ list-style:disc;margin:10px 0;padding:0 0 0 30px; }
+		#squeezewrap ul li{ margin:0;padding:10px 0; }
+		#squeezesidebar{ float:right;width:300px;}
+		
+		
+		

@@ -1,0 +1,19 @@
+#frmbody {
+	padding: 10px;
+	background-color: #FFF;
+	border: 1px solid #CCC;
+}
+
+.jbox {
+	float:left;
+	margin:5px 10px 10px 10px;
+}
+
+.clear{
+	clear:left;
+}
+
+.title {
+	padding-bottom: 5px;
+}
+

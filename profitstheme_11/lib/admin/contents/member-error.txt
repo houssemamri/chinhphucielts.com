@@ -1,0 +1,5 @@
+<span style="color: #000000;">You do not have sufficient permission to access this page. You have to upgrade your membership level before you can view this page.</span>
+
+<span style="color: #000000;">Click here to go upgrade your membership level.</span>
+
+<span style="color: #000000;">Click here to go to membership home page.</span>

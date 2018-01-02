@@ -1,0 +1,48 @@
+<h3>Please Customize Your Order: Step 1 Of xxxxxxxxxxxxxxxx</h3>
+I understand that you want to get your hands on [product name here]. Before you proceed any further, would you like to:
+<h1 style="text-align: center;">Get [XYZ which will do bla bla bla] At 50% Discount?</h1>
+<p align="center"><iframe width="560" height="315" src="//www.youtube.com/embed/UkqLLwdKUCk?rel=0" frameborder="0" allowfullscreen></iframe></p>
+[insert proof here - can be a screenshot or video of the results your prospects expect, or some kind of testimonials; by the way if you're looking for an easy yet robust platform to sell your product, recruit affiliates and pay them INSTANT commissions, and automate your sales funnel completely, do check out <a href="https://www.zaxaa.com" target="_blank">https://www.zaxaa.com</a>, the world's easiest online selling automation platform. It's free to sign up for an account. Go ahead and watch the demo video above]
+
+Text here
+Text here
+Text here
+<ul class="greenarrow2">
+	<li>Benefits here</li>
+	<li>Benefits here</li>
+	<li>Benefits here</li>
+</ul>
+Text here
+Text here
+Text here
+<ul class="greenarrow2">
+	<li>Benefits here</li>
+	<li>Benefits here</li>
+	<li>Benefits here</li>
+</ul>
+<!-- PT BOX START HERE -->
+<div class="bluebox14" id="jbox" style="width: 700px;">
+<div class="bluebox14-head" style="margin: 0px; padding: 7px 20px; text-align: center;"><span style="color: #fff;"><strong>[insert product name here]</strong></span></div>
+<div class="redbox14-content" style="padding: 10px 20px;">
+
+<strong>Inside [insert product name here], you'll discover and learn PROVEN methods that work (I know because I've tried and tested them, remember):</strong>
+
+[tell them the benefits of WHAT they are going to get when they buy your product, making sure to leave out the HOW. You want to whet their appetite, but don't tell them HOW to solve their problem - they have to buy your product in order to know the HOW]
+<ul class="greenarrow2">
+	<li>[the benefit they get #1 - tell the WHAT, not the how]</li>
+	<li>[the benefit they get #2 - tell the WHAT, not the how]</li>
+	<li>[the benefit they get #3 - tell the WHAT, not the how]</li>
+	<li>[the benefit they get #4 - tell the WHAT, not the how]</li>
+	<li>[the benefit they get #5 - tell the WHAT, not the how]</li>
+	<li>Etc.</li>
+</ul>
+</div>
+</div>
+<!-- PT BOX END HERE -->
+<div id="jbox">
+
+The regular price for XYZ is $XXX. But if you take action right now, you can get it at 50% discount. All you need to do is click the button below:
+
+</div>
+<center><img alt="" src="http://adsenseblackmagic.com/testlabs/wp-content/themes/profitstheme_11/lib/images/buttons/buy/metro_5.png" /></center>
+<p style="text-align: center;">No thanks, I understand this offer will never be made to me again...</p>

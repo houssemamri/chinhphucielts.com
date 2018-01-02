@@ -1,0 +1,13 @@
+<h1 style="text-align: center;">Next Step: Confirm Your Email</h1>
+<p>Thanks for requesting <span style="color:#ff0000">[_____________________]</span>.</p>
+<p>To get it instantly at no-cost, I first need you to confirm your intention.</p>
+<p>I've just sent you an email</p>
+<p><strong>From: <span style="color:#ff0000">[Insert your name here]</span></strong></p>
+<p><strong>Subject: <span style="color:#ff0000">[Insert your subject here]</span></strong></p>
+<p>Check your inbox now for this email and click the confirmation link within. You must click this link to receive <span style="color:#ff0000">[_____________________]</span>.</p>
+<p>If, after 10 minutes, you still have not received this email, be sure to check your spam/bulk folder.</p>
+<h2 style="text-align: center;">In the meantime, here are 10 FREE Minisites from my trusted designer:</h2>
+<div style="width:460px;height:395px;margin:0 auto;">
+<a href="http://hotminisitetemplates.com/free-minisite2.html" target="_blank"><img src="http://www.getprofitsfast.com/member/images/psbanners/ty-ads1.jpg" border="0" /></a>
+</div> 
+<p>(be sure to hyperlink the above image with your affiliate link. If you're not yet a Get Profits Fast affiliate, you can sign up at <a href="http://www.getprofitsfast.com/affiliate" target="_blank">http://www.getprofitsfast.com/affiliate</a> -- we provide LIFETIME commissions for multiple products)</p>

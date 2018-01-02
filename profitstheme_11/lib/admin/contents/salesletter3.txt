@@ -1,0 +1,94 @@
+<p style="text-align:center">[insert proof here - can be a screenshot or video of the results your prospects expect, or some kind of testimonials]</p>
+
+<p>Dear Friend,</p>
+<p>I hear you. I've been where you are.</p>
+<p>I used to be like you, suffering from [insert problem here]. The pain was so deep inside that often times I felt like I'm the unluckiest [guy / gal] in the whole wide world.</p>
+<p>Yes, it's THAT painful - so I can definitely relate to how you feel right now.</p>
+<p>What if I tell you that I have a solution to your [insert problem here]? Would you be interested in knowing what that solution is?</p>
+<p>Before I tell you more about this solution, here's a little disclaimer: I did NOT stumble upon this solution by chance. I meticulously searched for a PRACTICAL, PROVEN, and APPLICABLE solution that would end [insert problem here] once and for all.</p>
+<p>After [X years] of searching, implementing, and testing, I now have in my hands a PROVEN formula that is guaranteed to solve [insert problem here].</p>
+<p>I poured all my knowledge (the proven formula) about how to solve [insert problem here] into a blueprint that I call...</p>
+
+
+<div id="jbox" class="greybox4" style="width:580px;padding:10px 20px;">
+<h2 style="text-align: center;">[insert product name here]</h2>
+<p><strong>Inside [insert product name here], you'll discover and learn PROVEN methods that work (I know because I've tried and tested them, remember):</strong></p>
+<p>[tell them the benefits of WHAT they are going to get when they buy your product, making sure to leave out the HOW. You want to whet their appetite, but don't tell them HOW to solve their problem - they have to buy your product in order to know the HOW]</p>
+<ul class="greenarrow">
+<li>[the benefit they get #1 - tell the WHAT, not the how]</li>
+<li>[the benefit they get #2 - tell the WHAT, not the how]</li>
+<li>[the benefit they get #3 - tell the WHAT, not the how]</li>
+<li>[the benefit they get #4 - tell the WHAT, not the how]</li>
+<li>[the benefit they get #5 - tell the WHAT, not the how]</li>
+<li>Etc.</li>
+</ul>
+</div>
+
+<div id="jbox" class="yellowbox2" style="width:580px;padding:10px 20px;">
+<img src="<%IMGDIR%>/badges/badges3-red.png" style="border:0; margin-right:10px; float:left" />
+<h2 style="text-align: left;">Your Purchase Is 100% Protected</h2>
+<p>You have nothing to lose and everything to gain. I'm so confident that [insert product name here] will solve your [insert problem here] that I'm offering a "No-Questions-Asked" 100% Money Back Guarantee. All I ask is you try out [insert product name here] for [X days] and if you haven't get [insert big benefit here] in [X days], then I don't want your money. Simply contact me at [insert support contact here] and I'll happily refund your purchase in full.</p>
+</div>
+
+<h2 style="text-align: center;">More More More...</h2>
+<p>I confess.</p>
+<p>I want you to get [insert product name here] now because I know without a shadow of a doubt that it's going to solve your [insert problem here].</p>
+<p>Why should I care about you?</p>
+<p>Because when I help you solve your [insert problem here], you're going to tell your family and friends about me and my product. When that happens, of course I enjoy viral word-of-mouth marketing - which means I sell more of my product.</p>
+<p>So to encourage you to take action and purchase [insert product name here] now, I'm going to include some nice related bonuses that I've created myself (NOT from those junk PLR resources) that compliment [insert product name here] so that you can solve [insert problem here] FASTER.</p>
+
+<div id="jbox" class="greybox4" style="width:580px;padding:10px 20px;">
+<h2 style="text-align: center;">[insert name of bonus 1 here]</h2>
+<p>[insert quick description of bonus 1]</p>
+<ul class="greenarrow">
+<li>[the benefit they get #1 - tell the WHAT, not the how]</li>
+<li>[the benefit they get #2 - tell the WHAT, not the how]</li>
+<li>[the benefit they get #3 - tell the WHAT, not the how]</li>
+<li>[the benefit they get #4 - tell the WHAT, not the how]</li>
+<li>[the benefit they get #5 - tell the WHAT, not the how]</li>
+<li>Etc.</li>
+</ul>
+</div>
+
+<div id="jbox" class="greybox4" style="width:580px;padding:10px 20px;">
+<h2 style="text-align: center;">[insert name of bonus 2 here]</h2>
+<p>[insert quick description of bonus 2]</p>
+<ul class="greenarrow">
+<li>[the benefit they get #1 - tell the WHAT, not the how]</li>
+<li>[the benefit they get #2 - tell the WHAT, not the how]</li>
+<li>[the benefit they get #3 - tell the WHAT, not the how]</li>
+<li>[the benefit they get #4 - tell the WHAT, not the how]</li>
+<li>[the benefit they get #5 - tell the WHAT, not the how]</li>
+<li>Etc.</li>
+</ul>
+</div>
+
+<h2 style="text-align: center;">[insert additional bonuses if applicable]</h2>
+
+<p>If you think about it, the value I'm offering you today with [insert product name here] along with all the bonuses could easily reach [insert much higher price than your product price]. But you won't even have to pay anything near that amount if you purchase now.</p>
+<p>You only need to come up with [one-tenth / two-tenth / three-tenth] of that price - which I'm sure you'd agree is still a steal.</p>
+
+<p>So go ahead and <strong><u>Clicking the Add To Cart button</u></strong> below now to start learning how to get [insert big benefit here] in [X days]:</p>
+
+<div id="jbox" class="bluebox" style="width:560px;padding:10px 20px;">
+<div class="jboxprice">Only $XX</div>
+<p class="jboxsubhead">One Time Payment - Instant Access!</p>
+<p class="jboxbtn"><img src="<%IMGDIR%>/buttons/yellow_add-to-cart.png" border="0" /></p>
+<p class="jboxsubhead">Instant Download - Even at 2 am</p>
+<p class="jboxtext"><small>All Major Credit Card, Paypal, and Online Checks Accepted<br />Order 24 Hours a Day, 7 Days a Week</small></p>
+</div>
+
+<div id="jbox" class="bluebox6" style="width:560px;padding:10px 20px;">
+	<p class="jboxcommhead"><span style="color:#666">"Your Customer's Testimonial Title Here"</span></p>
+	<p><img src="<%IMGDIR%>/person.jpg" border="0" class="alignleft" style="margin-right:10px" />Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce est eros, commodo quis consequat vitae, lobortis in massa. In ut consequat purus.</p>
+	<p>Nullam vitae odio quam, id tempus ligula. Integer eget quam erat, non viverra sem. Vivamus laoreet accumsan ante sit amet pharetra.</p>
+	<p><strong>- John Doe</strong><br />www.johndoe.com</p>
+</div>
+
+<h2 style="text-align: center;">[insert additional testimonials here]</h2>
+
+<p>Sincerely,<br />
+[insert your name here]</p>
+<p>PS. Why are you still reading this far? Get [insert product name here] now! Remember that you're protected by my No-Questions-Asked 100% Money Back Guarantee. You have nothing to lose and everything to gain.</p>
+<p>PPS. If you TRULLY want to solve [insert problem here] and get [insert big benefit here], the time to do something about it is NOW. Do you really want to continue living your life suffering from [insert problem here] forever? What will your family and friends think and say of you? Take charge of your life now, turn everything around once and for all, and SURPRISE THEM!</p>
+<p>Get [insert big benefit here] in [X days] by <strong><u>Clicking the Add To Cart button</u></strong> below to get started  immediately:</p>

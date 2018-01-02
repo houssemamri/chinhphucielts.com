@@ -1,0 +1,188 @@
+VERSION 1.3.8 SUMMARY
+-----------------------
+- Fix bug: Wordpress 3.9 issue (TinyMCE update)
+
+VERSION 1.3.7 SUMMARY
+-----------------------
+- Improvement: Update screenshot for Wordpress 3.8 new layout
+- Fix bugs : Popup optin centered position.
+- Fix bugs : Exit redirect on Mozilla Firefox 27 or later
+
+VERSION 1.3.6 SUMMARY
+-----------------------
+- Improvement: Increase exit redirect script compatibility with WP 3.6 or later and jQuery 1.10.2
+- Fix bugs: Price formatting issue in Zaxaa Integration
+- Fix bugs: Force download function is not working properly on some servers
+
+VERSION 1.3.5 SUMMARY
+-----------------------
+- Improvement: Automatically escape white spaces on aweber key to avoid errors.
+- Improvement: ClickBank IPN handler
+- Improvement: Fix download button style, image url, and alignment in membership pages
+- Improvement: Resize top navigation style of the Kevlar skin
+- Improvement: Fix widget tabs and opt-in style of the Cosmo skin
+
+VERSION 1.3.4 SUMMARY
+-----------------------
+- Remove aweber integration with Email Parser and use API instead.
+- Fix image thumbnail alignment (left & right) issues on blog post
+
+VERSION 1.3.3 SUMMARY
+-----------------------
+- Fix WP 3.6 conflict issue
+- Improve site skins and widgets CSS
+- Fix header optin form alignment
+- Fix post list columns alignment
+
+VERSION 1.3.2 SUMMARY
+-----------------------
+- Fix bug in launch options drag n drop
+- Fix blog page pagination
+
+VERSION 1.3.1 SUMMARY
+-----------------------
+- Fix bug when add media while creating/editing a post
+- Fix margin issue between input text optim form and registration form
+- Fix several skin files to get rid the post columns issue in home page
+- fix style on rich ads post margin
+- New Design for widget tabs, login, optin & header optin
+- fix blog skin themes widget bugs
+
+VERSION 1.3.0 SUMMARY
+-----------------------
+- New Feature: Exit Redirect
+- New Feature: PT membership now integrates with Zaxaa
+- New Feature: PT membership now integrates with JVZoo
+- New polished and elegant skins for landing pages, membership sites, and blog
+- Additional new modern graphics for johnson boxes, add to cart buttons, optin forms, arrows, bullet points, guarantee badges
+- New design for Profits Theme dashboard
+- New design and content for Page Generator
+- Fix issue with JW Player for WordPress plugin
+- Updated and improved Profits Theme framework
+
+
+VERSION 1.2.0 SUMMARY
+-----------------------
+- Fix CSS for logo on WordPress login page
+- Fix bug on post excerpts on home page
+- Fix bug in ClickBank IPN handler
+- Improve validation method in Paypal IPN handler
+- Tighten up security in Paypal IPN handler
+- Fix display error on commenters' avatar
+- Fix footer menu display when it's too long
+- Increase compatibility with other plugins
+- Increase compatibility with WordPress 3.5
+
+VERSION 1.1.9 SUMMARY
+-----------------------
+- Update Clickbank IPN variables
+- Fix minor bug in 'pt_is_valid_url' function 
+- Fix minor bug in the search results display
+- Minor improvement to increase PT compatibility with WordPress 3.4.1
+
+VERSION 1.1.8 SUMMARY
+-----------------------
+- Fix image path issue
+- Fix video screenshot path issue in Fake Video player
+- Fix bug in read more link display
+- Fix video player path when using Flowplayer
+- Fix minor bug in Clickbank Instant Payment Notification
+- Improve PT compatibility with WordPress 3.3.1 by replacing deprecated WordPress functions
+
+VERSION 1.1.7 SUMMARY
+-----------------------
+- Fix minor bug in media box slideshow
+- Fix some minor bugs in landing page template
+- Fix some minor bugs in membership templates
+- Fix broken cache folder in TimThumb
+- Tighten up security in PT, including TimThumb
+
+VERSION 1.1.6 SUMMARY
+-----------------------
+- Fix bug in featured module & content list in membership home template
+- Update timthumb script to the latest version (from 2.5 to 2.8)
+- Fix broken images/thumbnails
+
+VERSION 1.1.5 SUMMARY
+-----------------------
+- Replace all deprecated WP functions used in PT
+- Fix minor bug in "featured video" media box
+- Fix undefined variables, offset and index
+- Fix error on saving bug in metabox
+- Fix display issue in the dynamic image resizer script
+
+VERSION 1.1.4 SUMMARY
+-----------------------
+- Fix minor bugs in comment script.
+- Fix minor bug in page generator when generating landing pages.
+- Fix site layout option bug in IE.
+- Fix email validation script in Registration + Optin Form element.
+- Update timthumb script (dynamic thumbnail generator) to version 2.5, and fix security hole.
+
+VERSION 1.1.3 SUMMARY
+-----------------------
+- Fix 'layout breaking' bug in landing pages
+- Fix dialog bug in 'PT Landing Page Layout Settings'
+- Fix missing elements bug in 'PT Landing Page Layout Settings'
+- Fix duplicated elements bug in 'PT Landing Page Layout Settings'
+- Fix incompatibility between PT and JW Player For Wordpress Plugin 
+- Fix bug in jquery.gallery.js (javascript for "Featured Posts Slideshow")
+- Fix payment integration with Paypal for product with free trial
+- Fix email address bug in generated legal pages
+- Fix minor bug in Launch Funnel feature
+- Fix minor bug in PT SEO
+- Fix bug in PT Tabs Lists widget
+- Fix autoresponder bug in post optin
+- Fix css bug in landing pages
+- Fix bug in content listing in membership home page
+- Fix bug in content listing pagination in membership module page
+- Update facebook comments and like button integration code
+- More currencies added in "Membership -> Products/Levels"
+
+VERSION 1.1.2 SUMMARY
+-----------------------
+- Fix membership compatibility issue with Wishlist and DAP
+- Fix membership protection bug
+- Fix bug when showing a text title in membership site
+- Fix bug the PT SEO
+- Fix bug in media box
+- Fix bug in archive page template
+- Fix heading spacing (line-height) in testimonial box
+- Fix blog pagination position for 2 or 3 columns layout
+- Update Cufon script for IE9
+- Add new functionality to execute Clickbank IPN for test purchase
+- Add new option to modify posts excerpt length
+
+VERSION 1.1.1 SUMMARY
+-----------------------
+- Fix bug in membership protection
+- Fix bug in the thank you email template
+- Fix broken buttons in optin form
+- Fix css files for default and wider skins
+- Remove border from images within the post contents
+- Change the default font for the "Custom Text Optin Button" in landing page
+- Some Buttons and badges are re-added to the WP visual editor
+
+VERSION 1.1.0 SUMMARY
+-----------------------
+- New Feature: Create One-Time Or Evergreen Product Launch
+- New Feature: Automatic Launch Funnel
+- New Feature: Integrate custom minisite design with PT landing page
+- New landing page elements added
+- New and improved Membership Features
+- New Feature: Add unlimited products or membership levels
+- New Feature: Create Free Membership Site
+- New Feature: Automatically add/subscribe members to your list in Aweber, GetResponse, or Mailchimp
+- New Feature: Protect both posts and pages (old version of PT can only protect membership pages using PT - Membership template).
+- New Feature: Custom editor to modify blog css on the fly (for advanced users only)
+- New Feature: Support HTML5 video player
+- New Feature: Can add your own custom favicon
+- Fix bug when saving page in Chrome
+- Fix javascript bugs in IE7 and IE8
+- Fix membership pagination bug
+- Fix bug in Facebook Comments
+- Fix conflict with WP Pagenavi plugin
+- Fix some minor bugs from previous version
+- Seperate PT Graphics from main PT installation package so PT have smaller size
+
+Please go to http://www.getprofitsfast.com/member/profits-theme for more information about installing Profits Theme.

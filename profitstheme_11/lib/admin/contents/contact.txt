@@ -1,0 +1,4 @@
+<h1 style="text-align: center;">Contact Us</h1>
+If you have any questions or need help, you contact us here:
+
+[your support desk url or email]

@@ -1,0 +1,9 @@
+<h1 style="text-align: center;">Thanks For Confirming</h1>
+<p>An email containing the download link for <span style="color:#ff0000">[_________________]</span> has been sent to your email.</p> 
+<p>If, after 10 minutes, you still have not received this email, be sure to check your spam/bulk folder.</p>
+<p>If you have any questions or need help, you can contact us here: <span style="color:#ff0000">[__________________]</span>.</p>
+<h2 style="text-align: center;">In the meantime, here are 10 FREE Minisites from my trusted designer:</h2>
+<div style="width:460px;height:395px;margin:0 auto;">
+<a href="http://hotminisitetemplates.com/free-minisite2.html" target="_blank"><img src="http://www.getprofitsfast.com/member/images/psbanners/ty-ads1.jpg" border="0" /></a>
+</div> 
+<p>(be sure to hyperlink the above image with your affiliate link. If you're not yet a Get Profits Fast affiliate, you can sign up at <a href="http://www.getprofitsfast.com/affiliate" target="_blank">http://www.getprofitsfast.com/affiliate</a> -- we provide LIFETIME commissions for multiple products)</p>

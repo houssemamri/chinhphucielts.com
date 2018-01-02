@@ -1,0 +1,3 @@
+<p>Welcome to [insert membership name here] Members Area.</p> 
+<p>Here you'll find lots of resources to help you start learning how you can get [insert benefit here].</p>
+<p>If you have any questions, please do not hesitate to contact us at [insert support desk url here].</p>

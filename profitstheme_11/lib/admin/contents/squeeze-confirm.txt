@@ -1,0 +1,14 @@
+<h1 style="text-align: center;">Next Step: Confirm Your Email</h1>
+Thanks for requesting [_____________________].
+
+To get it instantly at no-cost, I first need you to confirm your intention.
+
+I've just sent you an email
+
+<strong>From: [Insert your name here]</strong>
+
+<strong>Subject: [Insert your subject here]</strong>
+
+Check your inbox now for this email and click the confirmation link within. You must click this link to receive [_____________________].
+
+If, after 10 minutes, you still have not received this email, be sure to check your spam/bulk folder.

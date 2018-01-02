@@ -1,0 +1,10 @@
+<h1 style="text-align: center;">Download Area</h1>
+You can download [__________________] below:
+
+[Your freebie/product link here] (right click and choose "save target as" or "save link as")
+
+If you have any questions or need help, you can contact us here: [__________________].
+
+In the meantime, you might be interested in...
+<p style="text-align: center;"><a href="http://profitstheme.com" target="_blank"><img class="aligncenter" alt="" src="http://www.getprofitsfast.com/member/images/pt-banners/728x90.jpg" width="728" height="90" /></a></p>
+(note: be sure to link the above image with your affiliate link. We provide LIFETIME commissions for multiple products. You can join our affiliate program here: <a href="http://www.getprofitsfast.com/affiliate" target="_blank">http://www.getprofitsfast.com/affiliate</a>)

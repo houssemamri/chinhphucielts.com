@@ -1,0 +1,10 @@
+Inside this [name of freebie], you’ll discover and learn for FREE:
+
+[tell them WHAT benefit they get, do NOT tell them the HOW - to know the how, they have to sign up for your freebie; max of 4 bullet points recommended, more than that there is a high possibility of info overload - which means inaction by your visitors]
+<ul class="greenarrow2">
+	<li>[insert benefit #1 here - tell them WHAT benefit they get]</li>
+	<li>[insert benefit #2 here - tell them WHAT benefit they get]</li>
+	<li>[insert benefit #3 here - tell them WHAT benefit they get]</li>
+	<li>[insert benefit #4 here - tell them WHAT benefit they get]</li>
+</ul>
+[by the way if you're looking for an easy yet robust platform to sell your product, recruit affiliates and pay them INSTANT commissions, and automate your sales funnel completely, do check out <a href="https://www.zaxaa.com" target="_blank">https://www.zaxaa.com</a>, the world's easiest online selling automation platform. It's free to sign up for an account. Go ahead and watch the demo video above]

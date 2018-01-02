@@ -1,0 +1,32 @@
+<h1 style="text-align: center;">Affiliate Payout Information</h1>
+<p style="text-align: center;"><iframe width="560" height="315" src="//www.youtube.com/embed/UkqLLwdKUCk?rel=0" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align: center;">[by the way if you're looking for an easy yet robust platform to sell your product, recruit affiliates and pay them INSTANT commissions, and automate your sales funnel completely, do check out <a href="https://www.zaxaa.com" target="_blank">https://www.zaxaa.com</a>, the world's easiest online selling automation platform. It's free to sign up for an account. Go ahead and watch the demo video above]</p>
+<span style="color: #000000;"><strong>Q: How do you pay commissions and how often?</strong></span>
+
+<span style="color: #000000;">A: We pay your commissions on [the 1st of every month] via [PayPal / Clickbank / etc].</span>
+
+<span style="color: #000000;"><strong>Q: Is there a minimum payout?</strong></span>
+
+<span style="color: #000000;">A: Your commissions need to be at least [$100] before you will be paid. Any unclaimed commissions are accumulated from one pay period to the next.</span>
+
+<span style="color: #000000;"><strong>Q: Is there a withhold period before my commissions are paid?</strong></span>
+
+<span style="color: #000000;">A: There is a [1 month / 2 months] delay from the day you made your affiliate sale to the day we pay you. For example, let's say today is January 31 and your commissions is $20. This means that you'll receive your commissions on [March / April 1st].</span>
+<h1 style="text-align: center;">Affiliate Tools For [name of product]</h1>
+<span style="color: #000000;">[Name of product] sells for [$XX]. For every sale, you get [50%] commissions, which equals to [$20].</span>
+
+<span style="color: #000000;">There will be [one / two / three] one-time-offers (OTO). Your commissions at every step of the funnel = [50%]</span>
+
+<span style="color: #000000;">The OTOs are:</span>
+<ol>
+	<li><span style="color: #000000;">[name of OTO1 -- you get $XX/sale]</span></li>
+	<li><span style="color: #000000;">[name of OTO2 -- you get $XX/sale]</span></li>
+	<li><span style="color: #000000;">[name of OTO3 -- you get $XX/sale]</span></li>
+</ol>
+<span style="color: #000000;">Provide:</span>
+<ol>
+	<li><span style="color: #000000;">Banners</span></li>
+	<li><span style="color: #000000;">Email and forum signatures</span></li>
+	<li><span style="color: #000000;">Twitter tweets</span></li>
+	<li><span style="color: #000000;">Email copy/blog post copy</span></li>
+</ol>

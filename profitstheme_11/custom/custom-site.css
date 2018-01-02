@@ -1,0 +1,471 @@
+/*
+File:		custom-site.css
+Description:	Custom styles for Profits Theme site or blog
+
+If you want to declare your own custom css styles for your site or
+blog, then you can edit this file. To override any css declaration
+in style.css and skins css files with the custom styles, make sure
+that you check the "Load custom file(s) to Profits Theme" option.
+
+*/
+
+body {
+
+}
+
+/* Formatting */
+
+h1, h2, h3, h4, h5 {
+	
+}
+
+a{
+	
+}
+
+a:hover{
+	
+}
+
+blockquote p {
+	
+}
+
+h2.pagetitle{
+	
+}
+
+a.more-link:link, a.more-link:visited, a.more-link:active{
+	
+}
+
+a.more-link:hover{
+	
+}
+
+/* Container */
+#wrapper{
+	
+}
+
+#before-header-bg{
+	
+}
+
+#before-header{
+	
+}
+
+#header-bg{
+	
+}
+
+#header{
+	
+}
+
+#after-header-bg{
+	
+}
+
+#after-header{
+
+}
+
+#mediabox{
+
+}
+
+#mainarea{
+
+}
+
+#bottom-widget-bg{
+	
+}
+
+#bottom-widget{ 
+	
+}
+
+/* Columns */
+#main-column {
+
+}
+
+#sidebar1-column{
+
+}
+
+#sidebar2-column{
+
+}
+
+#bottom-left{
+
+}
+
+#bottom-center{
+
+}
+
+#bottom-right{
+
+}
+
+#bottom-right2{
+
+}
+
+/* Header */
+#header-image{
+
+}
+
+#header #logo{
+
+}
+
+#header #logo h1{
+
+}
+
+#header #logo h1 a {
+	
+}
+
+#header #logo h1 a:hover{
+	
+}
+
+#header #logo .description{
+	
+}
+
+/* Before Header Navigation */
+
+#nav1, #nav1 ul { /* all lists */
+	
+}
+
+#nav1 a{
+	
+}
+
+#nav1 a:hover{
+	
+}
+
+#nav1 li{
+	
+}
+
+#nav1 li ul {
+	
+}
+
+#nav1 li li {
+	
+}
+
+#nav1 li ul li a {
+	
+}
+
+#nav1 li ul li a:hover {
+	
+}
+
+/* After Header Navigation */
+
+#nav2, #nav2 ul {
+	
+}
+
+#nav2 a {
+	
+}
+
+#nav2 a:hover {
+	
+}
+
+#nav2 li {
+	
+}
+
+#nav2 li ul {
+	
+}
+
+#nav2 li li {
+	
+}
+
+#nav2 li ul li a {
+	
+}
+
+#nav2 li ul li a:hover {
+	
+}
+
+/* Post */
+
+.post{
+	
+}
+
+.entry h2.postitle{
+	
+}
+
+.entry h2.postitle a{
+	
+}
+
+.entry h2.postitle a:hover{
+	
+}
+
+.entry .post-bylines {
+	
+}
+
+.entry .post-bylines a {
+	
+}
+
+.entry .post-bylines a:hover {
+	
+}
+
+.postags{
+	
+}
+
+.postags a {
+	
+}
+
+.postags a:hover {
+	
+}
+
+.entry ul{
+	
+}
+
+.entry ol{
+	
+}
+
+.postmetadata{
+	
+}
+
+.postmetadata a {
+	
+}
+
+.postmetadata a:hover {
+	
+}
+
+.relatedposts {
+	
+}
+
+/*--comments--*/
+.post-comments{	
+	
+}
+
+#commentlist {
+
+}
+
+#commentlist li {
+	
+}
+	
+.comment-author {
+
+}
+		
+.comment-author img {
+	
+}
+			
+.depth-4 img {
+
+}
+			
+.depth-5 img {
+
+}
+		
+.comment-text {
+
+}
+
+.pingback .comment-text {
+
+}
+		
+.reply {
+
+}
+		
+.reply a:link, .reply a:active, .reply a:visited {
+	
+}
+			
+.comment-text h3 {
+
+}
+		
+#commentform .input, #commentform .textarea {
+	
+
+#commentform .textarea {
+	
+}
+
+/* Sidebar */
+
+#sidebar{
+	
+}
+
+#sidebar ul {
+	
+}
+
+#sidebar ul li {
+	
+}
+
+#sidebar ul li h2 {
+	
+}
+
+#sidebar ul li a {
+	
+}
+
+#sidebar ul li a:hover {
+	
+}
+
+#sidebar ul li ul {
+	
+}
+
+#sidebar ul li ul li {
+	
+}
+
+#sidebar ul li ul li a {
+	
+}
+
+#sidebar ul li ul li a:hover {
+	
+}
+
+#sidebar ul li ul li ul{
+	
+}
+
+#sidebar ul li ul li ul li{
+	
+}
+
+/* Bottom Widget */
+
+#bot-widget{
+
+}
+
+#bot-widget ul {
+
+}
+
+#bot-widget ul li {
+	
+}
+
+#bot-widget ul li h2 {
+	
+}
+
+#bot-widget ul li a {
+	
+}
+
+#bot-widget ul li a:hover {
+	
+}
+
+#bot-widget ul li ul {
+	
+}
+
+#bot-widget ul li ul li {
+	
+}
+
+#bot-widget ul li ul li a {
+	
+}
+
+#bot-widget ul li ul li a:hover {
+	
+}
+
+#bot-widget ul li ul li ul{
+	
+}
+
+#bot-widget ul li ul li ul li{
+	
+}
+
+/* Footer */
+#footer-bg{
+	
+}
+
+#footer{
+	
+}
+
+#footer a{
+	
+}
+
+#footer a:hover{
+	
+}
+
+.footinfo{
+	
+}
+
+/* Footer Navigation */
+#nav3, #nav3 ul { 
+
+}
+
+#nav3 li { 
+
+}
+
+#nav3 li a{ 
+	
+}
+
+#nav3 li a:hover{
+	
+}

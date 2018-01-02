@@ -1,0 +1,24 @@
+<h1 style="text-align: center;">Frequently Asked Questions</h1>
+<strong>Q: Can you guarantee that I will [_________________] if I buy your product?</strong>
+
+A: We can't guarantee that you will [_________________] if you buy our product. We don't know who you are, we don't know your background, and we don't know how big your motivation is in achieving [________________]. That said, it would be impossible for us to guarantee that you will achieve [_______________].
+
+<strong>Q: How does your system/product work? How will it help me?</strong>
+
+A: We provide step-by-step guidance and instructions on how to achieve [________________]. If you implement everything that we've taught, you will save tons of time and lessen your hurdles while on your way to achieving [_________________].
+
+<strong>Q: Are there any requirements before I can use your product?</strong>
+
+A: Prior to using our product, you should be able to [________________] first.
+
+<strong>Q: How does your product compare to competitors' products?</strong>
+
+A: Our methods are based on real-world experience and not theory, as you can see from the proof presented on the sales page. A lot of people teach based on theory, but not us.
+
+<strong>Q. How do I contact you?</strong>
+
+A: You can contact us here: [insert support desk url or email].
+
+<strong>Q: What is the customer service response time?</strong>
+
+A: We will answer your queries in [24 WORKING (Monday - Friday) hours].
